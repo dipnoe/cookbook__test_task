@@ -6,7 +6,7 @@
 
 1. Склонируйте git-репозиторий
     ```bash
-       git clone git@github.com:dipnoe/cookbook.git
+       git clone git@github.com:dipnoe/cookbook__test_task.git
    ```
 
 2. Зайдите в корень проекта командой `cd <путь-до-дирректории-проекта>`
